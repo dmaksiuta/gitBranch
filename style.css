@@ -1,1 +1,7 @@
 body {}
+button{
+	display: flex;
+}
+nav {
+	display: flex;
+}
