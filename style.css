@@ -1,1 +1,10 @@
 body {}
+
+nav {
+	display: flex;
+}
+button {
+	display: flex;
+	align-items: flex-end;
+	cursor: pointer;
+}
